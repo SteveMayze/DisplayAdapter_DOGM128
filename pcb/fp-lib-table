@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "DisplayAdapter_DOGM128")(type "KiCad")(uri "${KIPRJMOD}/lib/DisplayAdapter_DOGM128.pretty")(options "")(descr ""))
+  (lib (name "mech")(type "KiCad")(uri "${MY_LIB}/mech.pretty")(options "")(descr ""))
+)
