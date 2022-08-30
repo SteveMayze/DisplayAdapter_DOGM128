@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "DisplayAdapter_DOGM128")(type "KiCad")(uri "D:/pcbs/DisplayAdapter_DOGM128/pcb/lib/DisplayAdapter_DOGM128.kicad_sym")(options "")(descr ""))
+)
